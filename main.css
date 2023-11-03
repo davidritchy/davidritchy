@@ -1,0 +1,16 @@
+
+form {
+    background-color: gray;
+ display: flex;
+}
+
+.boite_e{
+    flex-basis: 50%;
+    flex-shrink: 1;
+   
+}
+
+.boite_n{
+    flex-basis: 50%;
+    flex-shrink: 3;
+}

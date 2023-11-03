@@ -1,0 +1,6 @@
+
+
+.boite
+{
+    background-color: gray;
+}
